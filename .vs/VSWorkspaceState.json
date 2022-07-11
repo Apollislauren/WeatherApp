@@ -1,0 +1,13 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\WeatherAppSln",
+    "\\WeatherAppSln\\ClassLibrary1",
+    "\\WeatherAppSln\\WeatherApp",
+    "\\WeatherAppSln\\WeatherApp\\WeatherApp",
+    "\\WeatherAppSln\\WeatherApp\\WeatherApp.Android",
+    "\\WeatherAppSln\\WeatherApp\\WeatherApp.Android\\Resources"
+  ],
+  "SelectedNode": "\\WeatherAppSln\\WeatherApp\\WeatherApp\\WeatherApp.csproj",
+  "PreviewInSolutionExplorer": false
+}
